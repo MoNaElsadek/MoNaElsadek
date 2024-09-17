@@ -4,7 +4,19 @@
 
 I’m a passionate programmer specializing in embedded systems,devops. With hands-on experience in Docker, Jenkins, and Ansible, I excel in creating innovative solutions and driving efficiency in software delivery.
 
-Skills: C / C++ / Java / Python / Dart / PIC / Arduino / NodeMCU / STM32 / Docker / Docker Compose / Jenkins / Ansible  / Flutter / OOP / Linux  Docker Hub / Minikube / FOTA / Digital Control Systems
+Skills: *C 
+*C++
+* Java
+* Python
+*  Dart
+*  Docker 
+*  Docker Compose 
+*  Jenkins 
+*  Ansible  
+*  OOP
+*  Docker Hub
+* Minikube 
+
 
 - 🔭 I’m currently working on this page. 
 
