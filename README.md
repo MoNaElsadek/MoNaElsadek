@@ -4,7 +4,8 @@
 
 I’m a passionate programmer specializing in embedded systems,devops. With hands-on experience in Docker, Jenkins, and Ansible, I excel in creating innovative solutions and driving efficiency in software delivery.
 
-Skills: *C 
+Skills: 
+*C 
 *C++
 * Java
 * Python
