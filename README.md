@@ -5,8 +5,8 @@
 I’m a passionate programmer specializing in embedded systems,devops. With hands-on experience in Docker, Jenkins, and Ansible, I excel in creating innovative solutions and driving efficiency in software delivery.
 
 Skills: 
-*C 
-*C++
+* C 
+* C++
 * Java
 * Python
 *  Dart
@@ -18,7 +18,7 @@ Skills:
 *  Docker Hub
 * Minikube 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MoNaElsadek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mona Mohamed/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MoNaElsadek)    
 
 - 🔭 I’m currently working on this page. 
 
